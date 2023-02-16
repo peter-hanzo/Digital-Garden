@@ -1,0 +1,111 @@
+site_name: GASERI
+site_description: Group for Apps and  FIDIT, Uni Rijeka.
+site_author: Vedran Miletić
+site_url: https://222.peter-hanzo.net/
+copyright: Copyright
+repo_url: https://github.com/gaseri/website/
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - header.autohide
+    - navigation.instant
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+  logo: images/gaseri-logo.svg
+  favicon: images/favicon.png
+  language: hr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra:
+  alternate:
+    - name: Croatian
+      link: /hr/
+      lang: hr
+    - name: English
+      link: /en/
+      lang: en
+  analytics:
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: Thanks for your feedback! Help us improve this page by using our <a href="https://github.com/gaseri/website/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
+    provider: google
+    property: G-3CSW7LLM5F
+  consent:
+    title: Cookie consent
+    description: We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our website and whether users find what they're searching for. With your consent, you're helping us to make our website better.
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gaseri
+      name: GASERI on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/gaseri
+      name: GASERI on LinkedIn
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/gaseri
+      name: GASERI on GitLab
+    - icon: fontawesome/brands/bitbucket
+      link: https://bitbucket.org/gaseri
+      name: GASERI on Bitbucket
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - meta
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.keys
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+plugins:
+  - search
+  - social:
+      cards_font: Noto Sans SC
+      cards_color:
+        fill: "#0FF1CE" 
+        text: "#FFFFFF"
+
+#  - tags:
+#      tags_file: en/blog/index.md
