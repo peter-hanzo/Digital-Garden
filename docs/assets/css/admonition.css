@@ -1,7 +1,7 @@
 
 .md-typeset :is(.note)> :is(.admonition-title,
     summary) {
-    color: #448aff;
+    color: #a244ff;
 }
 
 .md-typeset :is(.abstract,
@@ -21,7 +21,7 @@
     .hint,
     .important)> :is(.admonition-title,
     summary) {
-    color: #00bfa5;
+    color: #0600bf;
 }
 
 .md-typeset :is(.success,

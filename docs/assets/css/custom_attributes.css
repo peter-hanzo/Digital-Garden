@@ -10,27 +10,11 @@
     width: 100%;
     text-align: right;
     font-weight: normal;
-}
+   }
 
 #u {
 	text-align: center;
 	display: block;
-}
-
-.md-typeset .admonition.dictionnary,
-.md-typeset details.dictionnary {
-  border-color: rgb(43, 155, 70);
-}
-.md-typeset .dictionnary > .admonition-title,
-.md-typeset .dictionnary > .summary {
-  background-color: rgba(43, 155, 70, 0.1);
-  border-color: rgb(43, 155, 70);
-}
-.md-typeset .dictionnary > .admonition-title::before,
-.md-typeset .dictionnary > summary::before {
-    background-color: rgb(43, 155, 70);
-    -webkit-mask-image: var(--md-admonition-icon--dictionnary);
-    mask-image: var(--md-admonition-icon--dictionnary);
 }
 
 
@@ -45,6 +29,7 @@
 }
 .heart {
   animation: heart 1000ms infinite;
+  color: #c72a2a
 }
 
 
@@ -56,6 +41,14 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100px
+    width: 100px;
+    cursor: zoom-in;
 }
 
+
+
+
+.center1 {
+  margin: auto;
+  max-width: 800px;
+}
