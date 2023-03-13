@@ -119,11 +119,6 @@ plugins:
             - tags.md
 
         
-        
-        
-        password_button_text: 'кнопка'
-        
-        
 
   #- pdf-with-js:
         # enable: false # should enable only when need PDF files
@@ -270,7 +265,7 @@ extra:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/
   analytics:
     provider: google
-    property: 
+    property: G-G5YR725YTF
     # property: UA-42618265-2
   
   
