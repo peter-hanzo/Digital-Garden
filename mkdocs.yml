@@ -299,23 +299,25 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: https://t.me/peter_hanzo
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rudenkopeter/  
+      
+      
+      
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/peter.hanzo/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/peter.hanzo.life/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/peter_hanzo
+
+
+    #- icon: fontawesome/brands/youtube
+    #  link: https://www.youtube.com/
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/peter-hanzo
     - icon: fontawesome/solid/envelope
       link: mailto:<peter@hanzo.page>
-      
-          - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/groups/8413366
-      
-          - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/c/dirigibleio
-      
-          - icon: fontawesome/brands/github-alt
-      link: https://github.com/mr-karan
   
   generator: true # hide the line "Made with Material for MkDocs"
 
