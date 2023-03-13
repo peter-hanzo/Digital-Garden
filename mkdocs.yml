@@ -117,27 +117,7 @@ plugins:
         exclude:
             - index.md
             - tags.md
-  - encryptcontent:
-        title_prefix: '🔐'
-        global_password: 'your_password'
-        hljs: false
-        arithmatex: false
-        mermaid2: false
-        password_button: true
-        remember_password: true
-        default_expire_dalay: 24
-        encrypted_something:
-            md-footer__inner: [nav, class] #Footer
-            md-nav: [nav, class] #Menu and toc
-        inject:
-            md-content: [div, class]
-        search_index: 'dynamically'
-        summary: 'another informational message to encrypted content'
-        placeholder: 'another password placeholder'
-        decryption_failure_message: 'another informational message when decryption fail'
-        encryption_info_message: 'another information message when you dont have acess !'
-        input_class: 'md-search__form md-search__input'
-        button_class: 'md-search__icon'
+
         
         
         
@@ -167,8 +147,8 @@ plugins:
   - social:
       cards_font: Noto Sans SC
       cards_color:
-        fill: "#59eb9b" 
-        text: "#FFFFFF"                            
+        fill: "#ffffff" 
+        text: "#595858"                            
   - callouts
   # блоки советов!
   
@@ -290,7 +270,7 @@ extra:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/
   analytics:
     provider: google
-    property: G-278F249RT9
+    property: 
     # property: UA-42618265-2
   
   
