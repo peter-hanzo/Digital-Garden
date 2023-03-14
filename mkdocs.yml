@@ -124,7 +124,7 @@ plugins:
             
 
   - tags:
-      tags_file: Tags.md
+      tags_file: tags.md
       
       
   - social:
