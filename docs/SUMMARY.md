@@ -6,5 +6,5 @@ description:
 ---
 
 [index-wiki](./Wiki/index.md)
-[exemple full post](./Reviews/exemple.md)
-[new-skr-123](./Wiki/new-skr-123.md)
+[exemple full post](../exemple.md)
+[new-skr-123](../new%20skr%20123.md)
