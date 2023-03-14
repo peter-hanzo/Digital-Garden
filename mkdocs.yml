@@ -141,7 +141,6 @@ plugins:
       #enabled_if_env: ENABLE_PDF_EXPORT
             
             
-  - pdf-export
 
   - tags:
       tags_file: Tags.md
