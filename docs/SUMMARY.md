@@ -1,5 +1,10 @@
-* [старт](index.md)
-* [hiki](Hiking/)
-* [Borgs](Hiking/index.md)
-    * [Bar](Notes/tags.md)
-    * [Foo](borgs/foo.md)
+---
+share_garden: true
+title: SUMMARY
+category:
+description:
+---
+
+[index-wiki](./Wiki/index.md)
+[exemple full post](./Reviews/exemple.md)
+[new-skr-123](./Wiki/new-skr-123.md)
