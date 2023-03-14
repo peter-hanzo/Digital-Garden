@@ -109,7 +109,7 @@ plugins:
 
   - git-revision-date-localized:
         type: custom
-        custom_format: "%d. %B %Y"
+        custom_format: "%d %B %Y"
         timezone: Europe/Amsterdam
         locale: en
         fallback_to_build_date: true
@@ -124,13 +124,13 @@ plugins:
             
 
   - tags:
-      tags_file: tags.md
+      tags_file: Tags.md
       
       
-  #- social:
-  #   cards_font: Noto Sans SC
-  #     fill: "#ffffff" 
-   #     text: "#595858"  
+  - social:
+     cards_font: Noto Sans SC
+       fill: "#ffffff" 
+        text: "#595858"  
 
 
 
