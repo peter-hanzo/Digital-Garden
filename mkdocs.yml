@@ -128,9 +128,9 @@ plugins:
       
       
   - social:
-     cards_font: Noto Sans SC
-       fill: "#ffffff" 
-        text: "#595858"  
+      cards_font: Noto Sans SC
+      fill: "#ffffff" 
+      text: "#595858"  
 
 
 
