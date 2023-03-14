@@ -120,17 +120,15 @@ plugins:
 
         
 
-
-            
-
   - tags:
       tags_file: tags.md
       
       
   - social:
       cards_font: Noto Sans SC
-      fill: "#ffffff" 
-      text: "#595858"  
+      cards_color:
+        fill: "#ffffff" 
+        text: "#595858"  
 
 
 
