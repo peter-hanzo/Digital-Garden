@@ -108,7 +108,7 @@ plugins:
   - search 
 
   - git-revision-date-localized:
-        type: timeago
+        type: custom
         custom_format: "%d. %B %Y"
         timezone: Europe/Amsterdam
         locale: en
@@ -120,19 +120,43 @@ plugins:
 
         
 
-  #- pdf-with-js:
-        # enable: false # should enable only when need PDF files
-        # add_download_button: false
-        # display_header_footer: true
-        # header_template: >-
-            # <div style="font-size:8px; margin:auto; color:lightgray;">
-                # <span class="title"></span>
-            # </div>
-        # footer_template: >-
-            # <div style="font-size:8px; margin:auto; color:lightgray;">
-                # Page <span class="pageNumber"></span> of 
-                # <span class="totalPages"></span>
-            # </div>
+  - with-pdf:
+        author: Peter Hanzo
+        #copyright: ANY TEXT
+        #
+        #cover: false
+        #back_cover: true
+        #cover_title: TITLE TEXT
+        #cover_subtitle: SUBTITLE TEXT
+        #custom_template_path: TEMPLATES PATH
+        #
+        #toc_title: TOC TITLE TEXT
+        #heading_shift: false
+        #toc_level: 3
+        #ordered_chapter_level: 2
+        #excludes_children:
+        #    - 'release-notes/:upgrading'
+        #    - 'release-notes/:changelog'
+        #
+        #exclude_pages:
+        #    - 'bugs/'
+        #    - 'appendix/contribute/'
+        #convert_iframe:
+        #    - src: IFRAME SRC
+        #      img: POSTER IMAGE URL
+        #      text: ALTERNATE TEXT
+        #    - src: ...
+        #two_columns_level: 3
+        #
+        #render_js: true
+        #headless_chrome_path: headless-chromium
+        #
+        #output_path: any-place/document.pdf
+        #enabled_if_env: ENABLE_PDF_EXPORT
+        #
+        #debug_html: true
+        #show_anchors: true
+        #verbose: true
             
 
   - tags:
