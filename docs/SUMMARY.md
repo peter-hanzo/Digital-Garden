@@ -1,8 +1,6 @@
 ---
 share_garden: true
 title: SUMMARY
-category:
-description:
 ---
 
 [index-wiki](./Wiki/index.md)
