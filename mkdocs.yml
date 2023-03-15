@@ -124,7 +124,11 @@ plugins:
   - tags:
       tags_file: tags.md
       
-      
+  - social:
+      cards_font: Spectral
+      cards_color:
+        fill: "#e0dcfc" 
+        text: "#0a0a0a"     
   #- social:
   #    cards_font: Noto Sans SC
   #    cards_color:
@@ -153,7 +157,7 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  #- meta-descriptions
+  - meta-descriptions
         
         
         
