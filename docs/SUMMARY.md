@@ -7,3 +7,5 @@ title: SUMMARY
 - [index-wiki](./Wiki/index.md)
 - [index](./Reviews/index.md)
 - [tags](./tags.md)
+- [exemple full post](./Reviews/exemple.md)
+- */
