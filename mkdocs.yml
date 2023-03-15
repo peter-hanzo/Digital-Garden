@@ -1,8 +1,8 @@
 site_name: Hanzo Garden
 site_url: https://garden.hanzo.page/ # must have the trailing slash
 site_author: Peter Hanzo
-site_description: Cloud tools for your productivity
-repo_name: peter-hanzo/sepia/
+site_description: Cloud Tools for your productivity
+repo_name: peter-hanzo/Digital-Garden/
 repo_url: https://github.com/peter-hanzo/garden/
 edit_uri: edit/main/docs/
 docs_dir: ./docs
@@ -125,7 +125,7 @@ plugins:
       tags_file: tags.md
       
   - social:
-      cards_font: Noto Sans
+      cards_font: Roboto
       cards_color:
         fill: "#7cf7cc" 
         text: "#252626"     
