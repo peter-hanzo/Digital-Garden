@@ -3,6 +3,9 @@ share_garden: true
 title: SUMMARY
 ---
 
+- [index](./index.md)
 - [index-wiki](./Wiki/index.md)
-- [exemple full post](../exemple.md)
-- [new-skr-123](../new%20skr%20123.md)
+- [index](./Reviews/index.md)
+- [tags](./tags.md)
+- [exemple full post](./Reviews/exemple.md)
+- */

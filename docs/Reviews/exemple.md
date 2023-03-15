@@ -18,7 +18,15 @@ hide:
 
 
 
+[=65% "65%"]
 
+sfsdfs
+
+[=45%]{: .thin}
+
+вава
+
+[=100% "100%"]{: .candystripe .candystripe-animate}
 
 
 ⛔ описание из des
@@ -128,7 +136,7 @@ You can also use words, to fit your writing style more closely[^note].
 
 что сделал и что не сделал что не удалось
 - [x] #739 ♦
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] https:thub.com/octo-org/octo-repo/issues/740
 - [x] Add delight to the experience when all tasks are complete :tada:
 
 
@@ -219,7 +227,7 @@ ____________
 
 
 
-[`pop`](#+pop){ #+pop }
+[`pop`](exemple.md#+pop){ #+pop }
 
 
 
@@ -294,10 +302,10 @@ ____________
 # гитхаб 
 
 
-[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/blob/main/LICENSE)
-[![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases)
-[![GitHub Actions status](https://github.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/actions)
+[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https:thub.com/peaceiris/mkdocs-material-boilerplate/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https:thub.com/peaceiris/mkdocs-material-boilerplate/releases/latest)
+[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https:thub.com/peaceiris/mkdocs-material-boilerplate/releases)
+[![GitHub Actions status](https:thub.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https:thub.com/peaceiris/mkdocs-material-boilerplate/actions)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9c95ccf4-5c1e-447b-8025-dd0b6f8764a5/deploy-status)](https://app.netlify.com/sites/mkdocs-material/deploys)
 
@@ -341,7 +349,7 @@ How To Reach Me
 </h5>
 
 <p align="center">
-    <a href="https://github.com/fire1ce">
+    <a href="https:thub.com/fire1ce">
         <img alt="github" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/stas-yakobov/">
@@ -355,11 +363,11 @@ How To Reach Me
     </a>
 </p>
 <p align="center">
-    <img alt="stats" width="452" src="https://github-readme-stats.vercel.app/api?username=fire1ce&count_private=true" />
+    <img alt="stats" width="452" src="https:thub-readme-stats.vercel.app/api?username=fire1ce&count_private=true" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/fire1ce/"><img alt="profile views" src="https://gpvc.arturio.dev/fire1ce?v=3"/></a>
+    <a href="https:thub.com/fire1ce/"><img alt="profile views" src="https://gpvc.arturio.dev/fire1ce?v=3"/></a>
 </p>
 
 <div style="margin: auto; max-width: 800px;" >
