@@ -1,4 +1,4 @@
-site_name: Garden Hanzo
+site_name: Hanzo Garden
 site_url: https://garden.hanzo.page/ # must have the trailing slash
 site_author: Peter Hanzo
 site_description: Cloud tools for your productivity
@@ -52,7 +52,7 @@ theme:
     # Light mode
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: indigo
+    primary: teal
     accent: deep orange
     toggle:
       icon: material/weather-sunny
@@ -127,13 +127,9 @@ plugins:
   - social:
       cards_font: Noto Sans SC
       cards_color:
-        fill: "#ffffff" 
+        fill: "#1b1c1c" 
         text: "#595858"     
-  #- social:
-  #    cards_font: Noto Sans SC
-  #    cards_color:
-  #     fill: "#ffffff" 
-  #     text: "#595858"  
+
 
   
   - literate-nav:
