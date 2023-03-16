@@ -3,5 +3,5 @@ share_garden: true
 title: SUMMARY
 ---
 - [Home](index.md)
-- [ревью]Reviews/)
-- [ревью](Garden_share/Reviews/)
+- [ревью](./Reviews/)
+- [ревью](/Reviews/)
