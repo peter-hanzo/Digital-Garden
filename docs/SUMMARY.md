@@ -2,13 +2,13 @@
 share_garden: true
 title: SUMMARY
 ---
-
-- [Home](index.md)
+- [Home](./index.md)
 - Notes
-    - [2021](Garden_share/Notes/2021/*.md)
-    - [2022](2022/*.md)
+    - [2021](2021/*.md)
+- Notes: Notes/
+- [ревью]Reviews/)
 - [ревью](Garden_share/Reviews/)
-- [пример](Garden_share/Reviews/exemple%20full%20post.md)
+- [пример](./Reviews/exemple.md)
 
-- [Tags](Garden_share/tags.md)
-- [exemple full post](Garden_share/Reviews/exemple%20full%20post.md)
+- [Tags](./tags.md)
+- [exemple full post](./Reviews/exemple.md)
