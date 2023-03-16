@@ -7,6 +7,7 @@ title: SUMMARY
     - [2021](2021/*.md)
     - [2022](2022/*.md)
     - */
+- Notes: Notes/
 - [ревью](Garden_share/Reviews/)
 - [пример](./Reviews/exemple.md)
 
