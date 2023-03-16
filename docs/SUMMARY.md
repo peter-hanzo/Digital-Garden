@@ -3,9 +3,14 @@ share_garden: true
 title: SUMMARY
 ---
 
-- [index](./index.md)
-- [index-wiki](./Wiki/index.md)
-- [index](./Reviews/index.md)
-- [tags](./tags.md)
-- [exemple full post](./Reviews/exemple.md)
-- */
+
+- [Home](index.md)
+- Notes
+    - [2021](2021/*.md)
+    - [2022](2022/*.md)
+    - */
+- [ревью](Garden_share/Reviews/)
+- [пример](Garden_share/Reviews/exemple%20full%20post.md)
+
+- [Tags](Garden_share/tags.md)
+- [exemple full post](Garden_share/Reviews/exemple%20full%20post.md)
