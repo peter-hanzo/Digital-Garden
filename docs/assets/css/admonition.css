@@ -1,5 +1,5 @@
 
-.md-typeset :is(.note)> :is(.admonition-title,
+.md-typeset :is(.notes)> :is(.admonition-title,
     summary) {
     color: #a244ff;
 }
