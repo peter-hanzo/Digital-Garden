@@ -2,11 +2,5 @@
 share_garden: true
 title: SUMMARY
 ---
-- [Home](./index.md)
+- [Home](index.md)
 - Notes: Notes/
-- [ревью]Reviews/)
-- [ревью](Garden_share/Reviews/)
-- [пример](./Reviews/exemple.md)
-
-- [Tags](./tags.md)
-- [exemple full post](./Reviews/exemple.md)
