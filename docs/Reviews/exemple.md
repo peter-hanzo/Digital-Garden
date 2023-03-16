@@ -18,15 +18,24 @@ hide:
 
 
 
-[=65% "65%"]
+<iframe src="https://calendar.google.com/calendar/embed?src=19d93f5be02fc4004107f4a4470db4a76c10593d7a55f7a8be72ea7c19cc6817%40group.calendar.google.com&ctz=Asia%2FTbilisi" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-sfsdfs
+списки пример
 
-[=45%]{: .thin}
+- апапа
+	- апвавп
+	- вапрвапр
+- вапрвапр
+	- вапрвапр
+		- апвапр
 
-вава
+навигация
+<!--nav-->
+1213
 
-[=100% "100%"]{: .candystripe .candystripe-animate}
+
+
+
 
 
 ⛔ описание из des
