@@ -122,7 +122,7 @@ plugins:
        
 
   - tags:
-      tags_file: tags.md
+      tags_file: Tags.md
       
   - social:
       cards_font: Roboto
