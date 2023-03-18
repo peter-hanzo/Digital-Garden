@@ -1,6 +1,6 @@
 ---
 share_garden: true
-title: tags
+title: Tags
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 share_garden: true
 title: index
-category: Tools
+category: Notes
 description: описание 
 hide:
   - footer
