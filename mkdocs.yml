@@ -296,14 +296,6 @@ extra_css:
 #  - assets/css/customization.css
   
   - assets/css/highlight.css
-  
-#  - assets/css/template/blog.css
-#  - assets/css/template/img-grids-float.css
-
-#  - assets/css/template/blog.css
-  - assets/css/template/img-grids-float.css
-  - assets/css/template/tooltipster.bundle.min.css
-#  - assets/css/template/utils.css
 
 
 
@@ -314,8 +306,6 @@ extra_javascript:
   - assets/js/view-bigimg.js
   - assets/js/extra.js
   
-  
-#  - assets/js/utils.js
 
 # новые!!!!!!❤️
 
