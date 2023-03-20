@@ -7,5 +7,5 @@ title: SUMMARY
 - [Reviews](Reviews/)
 - [Tools](Tools/)
 - [Wiki](Wiki/)
-- [Tags](Tags.md)
-- [Contacts](https://peter.hanzo.page/)
+- [Tags](./Tags.md)
+- [About](https://peter.hanzo.page/)
