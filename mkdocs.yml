@@ -42,7 +42,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
   font:
     text: Inter
-    code: IMB Plex Mono
+    code: Noto Sans
     # Noto Sans, Spectral, -apple-system, Inter,Helvetica Neue,Helvetica, Roboto
     # IMB Plex Mono, Cascadia, Roboto Mono
   language: en
@@ -237,7 +237,7 @@ markdown_extensions:
   #    nbsp: true # use \<space> to create &nbsp;
   - pymdownx.keys # syntax ++ctrl+c++ does not look clear in MD document
   #- pymdownx.progressbar
-  #- mdx_truly_sane_lists
+  - mdx_truly_sane_lists
   
   
 # проверить потом
