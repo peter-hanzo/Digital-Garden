@@ -9,7 +9,7 @@ tags:
   - methodologies 
   - principles
 ---
-# AGILE методология
+## AGILE методология
 
 ## Определение 
 **Agile**  —  модель  разработки  ПО,  ориентированная  на  использование итеративной разработки, динамическое формирование требований и их реализацию в самоорганизующейся группе.
@@ -47,7 +47,7 @@ Agile основан на *ценностях* и *принципах*, кото
 - Extreme Programming (XP)
 - Lean (бережливая разработка ПО)
 
-# AGILE АНАЛИЗ
+## AGILE АНАЛИЗ
 
 ## 7 принципов анализа для BA: 
 
@@ -120,7 +120,7 @@ see *↪* [`Kanban`](../../`Kanban`.md)
 
 
 
-> [!abstract] метадата
+> [!abstract]- metadata
 > Type:: #newspaper 
 > Status:: #done
 > Location:: #office
@@ -128,15 +128,4 @@ see *↪* [`Kanban`](../../`Kanban`.md)
 >Topic:: project management, methodologies, principles
 > Back link::
 > Source:: 
-
-
-# metadata
-- Type:: #newspaper 
-- Status:: #done 
-- Location:: #office 
-- Project:: 
-- Topic:: 
-- Back link::
-- Source:: 
-
 
