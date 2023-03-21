@@ -3,7 +3,7 @@ share_garden: true
 title: AGILE methodology
 category: Wiki
 description: Iterative collaborative development. Customer satisfaction, frequent delivery.
-date: 2021-10-02
+date: 2022-10-02
 tags:
   - project management 
   - methodologies 
@@ -106,10 +106,10 @@ Agile основан на *ценностях* и *принципах*, кото
 	- [`User Story`](../../`User%20Story`.md)
 	- [`Epic`](../../`Epic`.md)
 	- [`Acceptance Criteria`](../../`Acceptance%20Criteria`.md)
-	- [Backlog Maintenance (Поддержание бэклога)](../../Backlog%20Maintenance%20(Поддержание%20бэклога).md)
+	- [Backlog Maintenance (Поддержание бэклога)](../../Backlog%20Maintenance_Поддержание%20бэклога.md)
 
 
-![Процесс разработки требований и связанные с ним практики бизнес-анализа в agile](_Files_/f29a641a3006e628154dd33c354fbccf.png)
+![Процесс разработки требований и связанные с ним практики бизнес-анализа в agile](../_Files_/Pasted image 20230321172517.png)
 
 
 ## Что такое Scrum and Kanban
@@ -125,7 +125,7 @@ see *↪* [`Kanban`](../../`Kanban`.md)
 > Status:: #done
 > Location:: #office
 > Project:: [0_Business Analyst `BA`](../../0_Business%20Analyst%20`BA`.md)
->Topic:: project management, methodologies, principles
+> Topic:: project management, methodologies, principles
 > Back link::
 > Source:: 
 
