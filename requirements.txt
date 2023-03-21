@@ -38,7 +38,7 @@ mkdocs-callouts>=1.8.1
 mkdocs-custom-tags-attributes>=0.3.0
 mkdocs-meta-descriptions-plugin>=2.2.0
 mkdocs-literate-nav>=0.6.0
-
+mdx_truly_sane_lists
 
 pillow==9.4.0
 nltk==3.7

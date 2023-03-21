@@ -42,7 +42,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
   font:
     text: Inter
-    code: Roboto Mono
+    code: IMB Plex Mono
     # Noto Sans, Spectral, -apple-system, Inter,Helvetica Neue,Helvetica, Roboto
     # IMB Plex Mono, Cascadia, Roboto Mono
   language: en
